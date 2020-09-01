@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F4E1A20B-23DF-48E6-9B41-E37EB0D9FF1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearnTabbedPage/App.xaml">
+    <Files>
+      <File FileName="LearnTabbedPage/LearnTabbedPagePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LearnTabbedPage/Page1.xaml.cs" Line="1" Column="1" />
+      <File FileName="LearnTabbedPage/Page2.xaml" Line="1" Column="1" />
+      <File FileName="LearnTabbedPage/LearnTabbedPagePage.xaml" Line="1" Column="1" />
+      <File FileName="LearnTabbedPage/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearnTabbedPage" expanded="True">
+            <Node name="LearnTabbedPage" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="LearnTabbedPagePage.xaml" expanded="True">
+                <Node name="LearnTabbedPagePage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Page1.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LearnTabbedPage.Droid PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LearnTabbedPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1D37476C-4497-4E06-A3CB-7F80C4290FAE" />
+</Properties>
