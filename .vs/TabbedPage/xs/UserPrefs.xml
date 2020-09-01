@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{D58F6438-FC22-4468-8A98-B368B731F2F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.TabbedPage FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPage.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPage.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
